@@ -1,0 +1,7 @@
+discord.py
+requests
+speedtest-cli
+gnews
+jokeapi
+pyrandmeme
+python-dotenv
